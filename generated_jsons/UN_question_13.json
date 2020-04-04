@@ -1,0 +1,19 @@
+{
+    "generated_id": "UN_q_13",
+    "manual_id": "13",
+    "question": "Are antibiotics effective in preventing or treating COVID-19?",
+    "answer": "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection.",
+    "manual_tags": [
+        "covid19",
+        "Antibiotics",
+        "prevent",
+        "treatment",
+        "infection"
+    ],
+    "answer_plain": "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection.",
+    "answer_html": "<p>No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

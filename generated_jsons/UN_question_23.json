@@ -1,0 +1,20 @@
+{
+    "generated_id": "UN_q_23",
+    "manual_id": "23",
+    "question": "What alternatives do I have if there are no hand sanitizers available? Can I use other alcohol like ethyl or liquor?",
+    "answer": "If hand sanitizers are not available, hand washing with soap and water is the recommended, and even better, alternative. Liquor is not effective against coronavirus. For an alcohol-based hand rub to be effective, it must have an alcohol content of 60% to 95%.",
+    "manual_tags": [
+        "covid19",
+        "hand",
+        "sanitizers",
+        "alcohol",
+        "shop",
+        "ethyl"
+    ],
+    "answer_plain": "If hand sanitizers are not available, hand washing with soap and water is the recommended, and even better, alternative. Liquor is not effective against coronavirus. For an alcohol-based hand rub to be effective, it must have an alcohol content of 60% to 95%.",
+    "answer_html": "<p>If hand sanitizers are not available, hand washing with soap and water is the recommended, and even better, alternative. Liquor is not effective against coronavirus. For an alcohol-based hand rub to be effective, it must have an alcohol content of 60% to 95%.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

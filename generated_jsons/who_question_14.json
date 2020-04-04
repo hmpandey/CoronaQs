@@ -1,0 +1,18 @@
+{
+    "generated_id": "who_q_14",
+    "manual_id": "14",
+    "question": "Are there any medicines or therapies that can prevent or cure COVID-19?",
+    "answer": "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.",
+    "manual_tags": [
+        "covid19",
+        "medicines",
+        "therapies",
+        "home remedies"
+    ],
+    "answer_plain": "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.",
+    "answer_html": "<p>While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.</p>",
+    "source_short_name": "who",
+    "source_full_name": "World Health Organization",
+    "source_questions_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+    "source_logo_url": "https://www.who.int/favicon.ico"
+}

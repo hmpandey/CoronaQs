@@ -1,0 +1,18 @@
+{
+    "generated_id": "UN_q_10",
+    "manual_id": "10",
+    "question": "Are the symptoms of COVID-19 different in children than in adults?",
+    "answer": "No. The symptoms of COVID-19 are similar in children and adults. However, children with confirmed COVID-19 have generally presented with mild symptoms. Reported symptoms in children include cold-like symptoms, such as fever, runny nose, and cough. Vomiting and diarrhea have also been reported. It’s not known yet whether some children may be at higher risk for severe illness, for example, children with underlying medical conditions and special healthcare needs. There is much more to be learned about how the disease impacts children.",
+    "manual_tags": [
+        "covid19",
+        "child",
+        "adult",
+        "symptoms"
+    ],
+    "answer_plain": "No. The symptoms of COVID-19 are similar in children and adults. However, children with confirmed COVID-19 have generally presented with mild symptoms. Reported symptoms in children include cold-like symptoms, such as fever, runny nose, and cough. Vomiting and diarrhea have also been reported. It’s not known yet whether some children may be at higher risk for severe illness, for example, children with underlying medical conditions and special healthcare needs. There is much more to be learned about how the disease impacts children.",
+    "answer_html": "<p>No. The symptoms of COVID-19 are similar in children and adults. However, children with confirmed COVID-19 have generally presented with mild symptoms. Reported symptoms in children include cold-like symptoms, such as fever, runny nose, and cough. Vomiting and diarrhea have also been reported. It’s not known yet whether some children may be at higher risk for severe illness, for example, children with underlying medical conditions and special healthcare needs. There is much more to be learned about how the disease impacts children.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

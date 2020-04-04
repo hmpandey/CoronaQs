@@ -1,0 +1,23 @@
+{
+    "generated_id": "UN_q_12",
+    "manual_id": "12",
+    "question": "Who is at risk of developing severe illness?",
+    "answer": "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others.",
+    "manual_tags": [
+        "covid19",
+        "risk",
+        "illness",
+        "medical",
+        "high blood pressure",
+        "heart disease",
+        "lung disease",
+        "cancer",
+        "diabetes"
+    ],
+    "answer_plain": "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions  such as high blood pressure, heart disease, lung disease, cancer or diabetes  appear to develop serious illness more often than others.",
+    "answer_html": "<p>While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

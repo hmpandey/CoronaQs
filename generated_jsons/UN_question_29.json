@@ -1,0 +1,17 @@
+{
+    "generated_id": "UN_q_29",
+    "manual_id": "29",
+    "question": "When should we identify ourselves as 'being sick' and stay at home?",
+    "answer": "Although a fever is a sure sign that you are sick enough not to come to work, anyone experiencing respiratory symptoms like coughing and sneezing should stay at home.",
+    "manual_tags": [
+        "covid19",
+        "sick",
+        "home"
+    ],
+    "answer_plain": "Although a fever is a sure sign that you are sick enough not to come to work, anyone experiencing respiratory symptoms like coughing and sneezing should stay at home.",
+    "answer_html": "<p>Although a fever is a sure sign that you are sick enough not to come to work, anyone experiencing respiratory symptoms like coughing and sneezing should stay at home.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

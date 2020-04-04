@@ -1,0 +1,17 @@
+{
+    "generated_id": "UN_q_6",
+    "manual_id": "6",
+    "question": "I am well and asymptomatic. Should I use a mask?",
+    "answer": "According to the WHO, for individuals without respiratory symptoms, a medical mask is not required, as no evidence is available on its usefulness to protect non-sick persons.<br>However, masks might be worn in some countries according to local cultural habits. If masks are used, best practices should be followed on how to wear, remove, and dispose of them and on hand hygiene action after removal. For more information, visit the WHO guidance on use of masks in the community.",
+    "manual_tags": [
+        "covid19",
+        "mask",
+        "protect"
+    ],
+    "answer_plain": "According to the WHO, for individuals without respiratory symptoms, a medical mask is not required, as no evidence is available on its usefulness to protect non-sick persons. However, masks might be worn in some countries according to local cultural habits. If masks are used, best practices should be followed on how to wear, remove, and dispose of them and on hand hygiene action after removal. For more information, visit the WHO guidance on use of masks in the community.",
+    "answer_html": "<p>According to the WHO, for individuals without respiratory symptoms, a medical mask is not required, as no evidence is available on its usefulness to protect non-sick persons.<br>However, masks might be worn in some countries according to local cultural habits. If masks are used, best practices should be followed on how to wear, remove, and dispose of them and on hand hygiene action after removal. For more information, visit the WHO guidance on use of masks in the community.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

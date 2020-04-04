@@ -1,0 +1,20 @@
+{
+    "generated_id": "UN_q_27",
+    "manual_id": "27",
+    "question": "Can I catch the virus from being in an enclosed space (i.e. bus, subway) in close proximity to someone who doesn’t have respiratory symptoms?",
+    "answer": "Since the virus is transmitted through respiratory droplets, the risk of catching it from somebody who is asymptomatic, even a contact of a confirmed COVID-19 case, is low. However, in light of the pandemic, everyone should maintain social distancing, which means keeping at least 1 meter away from others, avoiding mass gatherings and areas with large numbers of people, and practicing frequent hand washing and hand sanitizing according to the recommendation.",
+    "manual_tags": [
+        "covid19",
+        "catch",
+        "wash",
+        "bus",
+        "subway",
+        "proximity"
+    ],
+    "answer_plain": "Since the virus is transmitted through respiratory droplets, the risk of catching it from somebody who is asymptomatic, even a contact of a confirmed COVID-19 case, is low. However, in light of the pandemic, everyone should maintain social distancing, which means keeping at least 1 meter away from others, avoiding mass gatherings and areas with large numbers of people, and practicing frequent hand washing and hand sanitizing according to the recommendation.",
+    "answer_html": "<p>Since the virus is transmitted through respiratory droplets, the risk of catching it from somebody who is asymptomatic, even a contact of a confirmed COVID-19 case, is low. However, in light of the pandemic, everyone should maintain social distancing, which means keeping at least 1 meter away from others, avoiding mass gatherings and areas with large numbers of people, and practicing frequent hand washing and hand sanitizing according to the recommendation.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

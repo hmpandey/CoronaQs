@@ -1,0 +1,18 @@
+{
+    "generated_id": "UN_q_19",
+    "manual_id": "19",
+    "question": "How long is the incubation and transmission period for COVID-19?",
+    "answer": "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days.",
+    "manual_tags": [
+        "covid19",
+        "incubation",
+        "transmission",
+        "catching"
+    ],
+    "answer_plain": "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days.",
+    "answer_html": "<p>The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

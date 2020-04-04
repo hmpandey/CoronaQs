@@ -1,0 +1,16 @@
+{
+    "generated_id": "who_q_2",
+    "manual_id": "2",
+    "question": "What is COVID-19?",
+    "answer": "COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.",
+    "manual_tags": [
+        "covid19",
+        "define"
+    ],
+    "answer_plain": "COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.",
+    "answer_html": "<p>COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.</p>",
+    "source_short_name": "who",
+    "source_full_name": "World Health Organization",
+    "source_questions_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+    "source_logo_url": "https://www.who.int/favicon.ico"
+}

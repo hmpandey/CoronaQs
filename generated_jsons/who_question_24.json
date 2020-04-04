@@ -1,0 +1,18 @@
+{
+    "generated_id": "who_q_24",
+    "manual_id": "24",
+    "question": "Is there anything I should not do?",
+    "answer": "In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider.<br>The following measures ARE NOT effective against COVID-2019 and can be harmful:<*>Smoking<*>Wearing multiple masks<*>Taking antibiotics (See question 10 'Are there any medicines of therapies that can prevent or cure COVID-19?')",
+    "manual_tags": [
+        "covid19",
+        "do",
+        "smoke",
+        "mask"
+    ],
+    "answer_plain": "In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider. The following measures ARE NOT effective against COVID-2019 and can be harmful: Smoking Wearing multiple masks Taking antibiotics  See question 10 'Are there any medicines of therapies that can prevent or cure COVID-19?' ",
+    "answer_html": "<p>In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider.<br>The following measures ARE NOT effective against COVID-2019 and can be harmful:<br> * Smoking<br> * Wearing multiple masks<br> * Taking antibiotics (See question 10 'Are there any medicines of therapies that can prevent or cure COVID-19?')</p>",
+    "source_short_name": "who",
+    "source_full_name": "World Health Organization",
+    "source_questions_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+    "source_logo_url": "https://www.who.int/favicon.ico"
+}

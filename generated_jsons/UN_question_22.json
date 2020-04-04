@@ -1,0 +1,17 @@
+{
+    "generated_id": "UN_q_22",
+    "manual_id": "22",
+    "question": "How can I get tested for COVID-19?",
+    "answer": "If you are well, no testing is recommended. If you are experiencing symptoms of COVID-19, you should immediately isolate yourself from others. Call your local UN clinic/medical facility to inform them of your condition and relevant travel/exposure history. If you had been identified as a close contact of a case by the local Ministry of Health or WHO, please also indicate this. From here you will be advised if a medical assessment is necessary and how to get tested.",
+    "manual_tags": [
+        "covid19",
+        "test",
+        "local"
+    ],
+    "answer_plain": "If you are well, no testing is recommended. If you are experiencing symptoms of COVID-19, you should immediately isolate yourself from others. Call your local UN clinic/medical facility to inform them of your condition and relevant travel/exposure history. If you had been identified as a close contact of a case by the local Ministry of Health or WHO, please also indicate this. From here you will be advised if a medical assessment is necessary and how to get tested.",
+    "answer_html": "<p>If you are well, no testing is recommended. If you are experiencing symptoms of COVID-19, you should immediately isolate yourself from others. Call your local UN clinic/medical facility to inform them of your condition and relevant travel/exposure history. If you had been identified as a close contact of a case by the local Ministry of Health or WHO, please also indicate this. From here you will be advised if a medical assessment is necessary and how to get tested.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

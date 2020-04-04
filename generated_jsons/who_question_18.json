@@ -1,0 +1,19 @@
+{
+    "generated_id": "who_q_18",
+    "manual_id": "18",
+    "question": "How to put on, use, take off and dispose of a mask?",
+    "answer": "<*>Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough.<*>Before touching the mask, clean hands with an alcohol-based hand rub or soap and water<*>Take the mask and inspect it for tears or holes.<*>Orient which side is the top side (where the metal strip is).<*>Ensure the proper side of the mask faces outwards (the coloured side).<*>Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.<*>Pull down the mask’s bottom so it covers your mouth and your chin.<*>After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.<*>Discard the mask in a closed bin immediately after use.<*>Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water.",
+    "manual_tags": [
+        "covid19",
+        "dispose",
+        "mask",
+        "use",
+        "care"
+    ],
+    "answer_plain": " Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough. Before touching the mask, clean hands with an alcohol-based hand rub or soap and water Take the mask and inspect it for tears or holes. Orient which side is the top side  where the metal strip is . Ensure the proper side of the mask faces outwards  the coloured side . Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose. Pull down the mask’s bottom so it covers your mouth and your chin. After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask. Discard the mask in a closed bin immediately after use. Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water.",
+    "answer_html": "<p><br> * Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough.<br> * Before touching the mask, clean hands with an alcohol-based hand rub or soap and water<br> * Take the mask and inspect it for tears or holes.<br> * Orient which side is the top side (where the metal strip is).<br> * Ensure the proper side of the mask faces outwards (the coloured side).<br> * Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.<br> * Pull down the mask’s bottom so it covers your mouth and your chin.<br> * After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.<br> * Discard the mask in a closed bin immediately after use.<br> * Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water.</p>",
+    "source_short_name": "who",
+    "source_full_name": "World Health Organization",
+    "source_questions_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+    "source_logo_url": "https://www.who.int/favicon.ico"
+}

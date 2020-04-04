@@ -1,0 +1,17 @@
+{
+    "generated_id": "who_q_1",
+    "manual_id": "1",
+    "question": "What is a coronavirus?",
+    "answer": "Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.",
+    "manual_tags": [
+        "covid19",
+        "coronavirus",
+        "define"
+    ],
+    "answer_plain": "Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome  MERS  and Severe Acute Respiratory Syndrome  SARS . The most recently discovered coronavirus causes coronavirus disease COVID-19.",
+    "answer_html": "<p>Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.</p>",
+    "source_short_name": "who",
+    "source_full_name": "World Health Organization",
+    "source_questions_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+    "source_logo_url": "https://www.who.int/favicon.ico"
+}

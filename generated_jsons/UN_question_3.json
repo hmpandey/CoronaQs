@@ -1,0 +1,18 @@
+{
+    "generated_id": "UN_q_3",
+    "manual_id": "3",
+    "question": "How do I know if it is COVID-19 or just the common flu?",
+    "answer": "A COVID-19 infection has the same signs and symptoms as the common cold and you can only differentiate them through laboratory testing to determine the virus type.",
+    "manual_tags": [
+        "covid19",
+        "common flu",
+        "common cold",
+        "differentiate"
+    ],
+    "answer_plain": "A COVID-19 infection has the same signs and symptoms as the common cold and you can only differentiate them through laboratory testing to determine the virus type.",
+    "answer_html": "<p>A COVID-19 infection has the same signs and symptoms as the common cold and you can only differentiate them through laboratory testing to determine the virus type.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

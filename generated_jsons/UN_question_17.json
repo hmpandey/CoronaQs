@@ -1,0 +1,17 @@
+{
+    "generated_id": "UN_q_17",
+    "manual_id": "17",
+    "question": "Until when should I wear a mask after recovering from an illness with respiratory symptoms?",
+    "answer": "In order to avoid infecting others, you should use a mask for as long as you are still coughing or sneezing. You should only stop after a complete recovery (which means 24-48 hours after having no symptoms without medication).",
+    "manual_tags": [
+        "covid19",
+        "mask",
+        "recovery"
+    ],
+    "answer_plain": "In order to avoid infecting others, you should use a mask for as long as you are still coughing or sneezing. You should only stop after a complete recovery  which means 24-48 hours after having no symptoms without medication .",
+    "answer_html": "<p>In order to avoid infecting others, you should use a mask for as long as you are still coughing or sneezing. You should only stop after a complete recovery (which means 24-48 hours after having no symptoms without medication).</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

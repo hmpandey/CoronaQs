@@ -1,0 +1,18 @@
+{
+    "generated_id": "UN_q_26",
+    "manual_id": "26",
+    "question": "Is there a connection between COVID -19 and environment temperature?",
+    "answer": "It is not known yet if weather and temperature changes impact or has any connection with COVID-19. At this time, it is not clear or known if the spread of COVID-19 will decrease when the weather becomes warmer.",
+    "manual_tags": [
+        "covid19",
+        "environment",
+        "temperature",
+        "weather"
+    ],
+    "answer_plain": "It is not known yet if weather and temperature changes impact or has any connection with COVID-19. At this time, it is not clear or known if the spread of COVID-19 will decrease when the weather becomes warmer.",
+    "answer_html": "<p>It is not known yet if weather and temperature changes impact or has any connection with COVID-19. At this time, it is not clear or known if the spread of COVID-19 will decrease when the weather becomes warmer.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}

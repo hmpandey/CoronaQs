@@ -1,0 +1,17 @@
+{
+    "generated_id": "UN_q_25",
+    "manual_id": "25",
+    "question": "Is it safe to receive a package from an area where COVID-19 has been reported?",
+    "answer": "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low.",
+    "manual_tags": [
+        "covid19",
+        "package",
+        "receive"
+    ],
+    "answer_plain": "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low.",
+    "answer_html": "<p>Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low.</p>",
+    "source_short_name": "UN",
+    "source_full_name": "United Nations",
+    "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
+    "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+}
