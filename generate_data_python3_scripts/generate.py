@@ -3,6 +3,7 @@ import glob
 import json
 import re
 import markdown
+import csv
 
 def all_folder( dir ):
     return [dI for dI in os.listdir(dir) if os.path.isdir(os.path.join(dir,dI))]
@@ -25,6 +26,11 @@ sources = all_folder(raw_data_dir)
 
 gen_dir = "../generated_jsons"
 all_q_list = []
+
+csv_file = open('../data.csv', 'w')
+csv_writer = csv.writer(csv_file)
+head_f = True
+
 for source in sources:
 
     source_dir = raw_data_dir + "/" + source
@@ -32,7 +38,7 @@ for source in sources:
     #print(source_info_json)
 
     que_ps = source_dir + "/question/*.json"
-    qs_dir = glob.glob(que_ps)
+    qs_dir = sorted(glob.glob(que_ps), key=lambda f: int(re.sub('\D', '', f)))
     
     for q_dir in qs_dir:
         q_json = json.load(open(q_dir,"r"))
@@ -49,11 +55,17 @@ for source in sources:
 
         all_q_list.append(gen_q)
 
+        if(head_f):
+            csv_writer.writerow(gen_q.keys())
+            head_f = False
+        csv_writer.writerow(gen_q.values())
+
         q_gen_dir = gen_dir + "/" + source_info_json["short_name"] + "_question_" + q_json["manual_id"] + ".json"
 
         with open(q_gen_dir, 'w', encoding='utf-8') as f:
             json.dump(gen_q, f, ensure_ascii=False, indent=4)
 
+csv_file.close()
 #print(all_q_list)
 all_q_dir = "../data.json"
 with open(all_q_dir, 'w', encoding='utf-8') as f:
