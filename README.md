@@ -15,6 +15,12 @@
 
 ## About
 HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc.
+<br>
+**Dataset can be used for :** 
+* Creating a CoronaVirus related FAQs component in React, Vue or Angular App.
+* Data size is very small so it is not suitable for ML/AI but still it can be used by answering bots.
+* Questions and Answers can be used by any Web or Mobile application.
+* **Note:** Please do not use github repo as SaS.
 
 ## Data Samples
 
