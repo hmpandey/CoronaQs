@@ -8,6 +8,7 @@
 >   * [Source Info JSON](#source-info-json)
 >   * [Question Content JSON](#question-content-json)
 >   * [Generated JSON](#generated-json)
+>* [Generating and Testing](#generating-and-testing)
 
 
 
@@ -52,4 +53,14 @@ HTML renderable dataset of FAQs with label collected from various trusted resour
         "source_full_name": "United Nations",
         "source_questions_url": "https://www.un.org/en/coronavirus/covid-19-faqs",
         "source_logo_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico"
+    }
+
+## Generating and Testing
+
+Generation of CSV [file](https://github.com/hmpandey/CoronaQs/blob/master/data.csv) and combined JSON [file](https://github.com/hmpandey/CoronaQs/blob/master/data.json) is done with the help of simple python3 script (attached to the source code). Simple test is also written for the same.
+
+    {
+        $ cd generate_data_python3_scripts/
+        $ python3 generate.py
+        $ python3 test.py
     }
