@@ -4,7 +4,7 @@
 
 > Table of contents:
 > * [About](#about)
-> * [Data Sample](Data&nbsp;Sample)
+> * [Data Sample](#data-samples)
 
 
 
